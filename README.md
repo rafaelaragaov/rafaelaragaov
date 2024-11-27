@@ -7,3 +7,7 @@
 - 🌍 Fluente em inglês - Fluent in english
 
 ![Rafael's GitHub stats](https://github-readme-stats-seven-kohl-39.vercel.app/api?username=rafaelaragaov&theme=dark&show_icons=true)
+
+<div> 
+  <a href="https://www.instagram.com/rafael.aragaov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
