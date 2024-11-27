@@ -6,4 +6,4 @@
 - 📝 Email para contatos: rafael.aragaovieira011@gmail.com -  Email for contacts: rafael.aragaovieira011@gmail.com
 - 🌍 Fluente em inglês - Fluent in english
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Rafael's GitHub stats](https://github-readme-stats-seven-kohl-39.vercel.app/api?username=rafaelaragaov&theme=dark&show_icons=true)
